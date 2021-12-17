@@ -1,2 +1,0 @@
-# TransferLearningVGG19bnCovid19
- 
